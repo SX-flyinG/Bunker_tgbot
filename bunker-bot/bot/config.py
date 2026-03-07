@@ -5,7 +5,7 @@ import os
 BOT_TOKEN = os.getenv("BOT_TOKEN", "8704064363:AAHEBdJO03RYkkftWnJItMugJVxq-Rm3xJA")
 
 # URL твоего Mini App (GitHub Pages, Vercel и т.д.)
-WEBAPP_URL = os.getenv("WEBAPP_URL", "https://your-username.github.io/bunker-webapp")
+WEBAPP_URL = os.getenv("WEBAPP_URL", "http://borschs_bunker_bot.io/")
 
 # Максимальный и минимальный размер комнаты
 ROOM_MIN = 8
